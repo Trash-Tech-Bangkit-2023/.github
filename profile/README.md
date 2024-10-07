@@ -1,5 +1,5 @@
 <h1 align="center">
-<img align="center" width="200" src=".github/profile/logo.png">
+<img align="center" width="200" src="https://raw.githubusercontent.com/Trash-Tech-Bangkit-2023/.github/refs/heads/main/profile/logo.png">
 </h1>
 
 <h2 align="center">
